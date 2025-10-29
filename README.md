@@ -13,7 +13,9 @@ PostgreSQL
 Installation Instructions:-
 1. Clone the repository: git clone https://github.com/Jayaram4210/Qr-Code-Django.git cd Qr-Code-Django
 
-2. Create a virtual environment: python -m venv venv On Windows: venv\Scripts\activate On Mac/Linux: source venv/bin/activate
+2. Create a virtual environment: python -m venv venv On
+   - Windows: venv\Scripts\activate
+   - On Mac/Linux: source venv/bin/activate
 
 3. Install dependencies: pip install -r requirements.txt
 
